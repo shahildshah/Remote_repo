@@ -8,3 +8,6 @@ Added a line on master.
 MAJOR Fix i am putting on "fixing python.txt" branch
 
 Fix some new stuff
+
+
+Now I have cloned the local repository with a remote one. 
