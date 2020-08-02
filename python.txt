@@ -4,3 +4,5 @@ Added a line after "initial commit"
 
 
 MAJOR Fix i am putting on "fixing python.txt" branch
+
+Fix some new stuff
